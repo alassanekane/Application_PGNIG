@@ -1,0 +1,873 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background	background-color: name"
+			],
+			[
+				"te",
+				"texterror"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"verif",
+				"verifieSiCommande"
+			],
+			[
+				"id_",
+				"id_last"
+			],
+			[
+				"img",
+				"img_article"
+			],
+			[
+				"ta",
+				"liste_tags"
+			],
+			[
+				"ti",
+				"titre"
+			],
+			[
+				"un",
+				"unit_mesure"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"IN",
+				"INTO"
+			],
+			[
+				"jp",
+				"jpeg"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"e",
+				"elseif	elseif …"
+			],
+			[
+				"re",
+				"rep"
+			],
+			[
+				"dat",
+				"date_commande"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"thi",
+				"thisID"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"id",
+				"id_article"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"col",
+				"console"
+			],
+			[
+				"dep",
+				"dep_use"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"h3",
+				"h3	Tag"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"lo",
+				"log"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/var/www/tmp/LPO_manger/utilisateur.php",
+			"settings":
+			{
+				"buffer_size": 7855,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/var/www/tmp/LPO_manger/liste_travel_user.php",
+			"settings":
+			{
+				"buffer_size": 6104,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/var/www/tmp/LPO_manger/ajoute_article.php",
+			"settings":
+			{
+				"buffer_size": 15369,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/tmp/LPO_manger/content.php",
+			"settings":
+			{
+				"buffer_size": 3192,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/var/www/tmp/LPO_manger/assets/js/lpo.js",
+			"settings":
+			{
+				"buffer_size": 10934,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/tmp/LPO_manger/config/ajax_lpo_big.php",
+			"settings":
+			{
+				"buffer_size": 6660,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/tmp/LPO_manger/assets/js/travel.js",
+			"settings":
+			{
+				"buffer_size": 13266,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/var/www/tmp/LPO_manger/config/ajax_function.php",
+			"settings":
+			{
+				"buffer_size": 17706,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/var/www/tmp/LPO_manger/config/script_lpo.php",
+			"settings":
+			{
+				"buffer_size": 2501,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/tmp/LPO_manger/config/scripts_function.php",
+			"settings":
+			{
+				"buffer_size": 8693,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/tmp/LPO_manger/assets/css/lpo.css",
+			"settings":
+			{
+				"buffer_size": 10611,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/tmp/LPO_manger/menu.php",
+			"settings":
+			{
+				"buffer_size": 3231,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/tmp/LPO_manger/liste_travel.php",
+		"/var/www/tmp/LPO_manger/scripte_refresh_cmd.php",
+		"/var/www/tmp/LPO_manger/ajouter_article.php",
+		"/var/www/tmp/LPO_manger/lpo_manager.php",
+		"/var/www/tmp/LPO_manger/tmp.php",
+		"/var/www/tmp/last_version/catalogue.php",
+		"/var/www/tmp/last_version/phpv2/ajax.php",
+		"/var/www/tmp/last_version/phpv2/function.php",
+		"/var/www/tmp/LPO_manger/utilisateur.php",
+		"/var/www/tmp/LPO_manger/ajoute_article.php",
+		"/var/www/tmp/LPO_manger/ajoute_user.php",
+		"/var/www/tmp/LPO_manger/assets/css/lpo.css",
+		"/var/www/tmp/LPO_manger/index.php",
+		"/var/www/tmp/LPO_manger/content.php",
+		"/var/www/tmp/LPO_manger/reporte/justificatif.php",
+		"/var/www/tmp/LPO_manger/assets/js/travel.js",
+		"/var/www/tmp/LPO_manger/config/scripts_function.php",
+		"/var/www/tmp/Travel_expenses/config/ajax_function.php",
+		"/var/www/tmp/LPO_manger/config/script_lpo.php",
+		"/var/www/tmp/LPO_manger/config/ajax_lpo_big.php",
+		"/var/www/tmp/LPO_manger/assets/js/lpo.js",
+		"/var/www/tmp/LPO_manger/liste_user.php",
+		"/var/www/tmp/last_version/phpv2/commonscripts.php",
+		"/var/www/tmp/last_version/corbeille/view_article.php",
+		"/var/www/tmp/Travel_expenses/reporte/traiterraport.php",
+		"/var/www/tmp/last_version/assets/js/jquery.tagify.js",
+		"/var/www/tmp/last_version/assets/css/application.css",
+		"/var/www/tmp/LPO_manger/commande/scripte_refresh_cmd.php",
+		"/var/www/tmp/LPO_manger/assets/css/colorbox.css",
+		"/var/www/tmp/last_version/assets/js/jquery.colorbox-min.js",
+		"/var/www/tmp/LPO_manger/assets/js/jquery.tagify.js",
+		"/var/www/tmp/last_version/Base/lpofdr.sql",
+		"/var/www/tmp/Travel_expenses/liste_travel.php",
+		"/var/www/tmp/LPO_manger/config/ajax_function.php",
+		"/var/www/tmp/LPO_manger/administrateur.php",
+		"/var/www/tmp/LPO_manger/assets/css/travel.css",
+		"/var/www/tmp/LPO_manger/modifier_user.php",
+		"/var/www/tmp/LPO_manger/menu.php",
+		"/var/www/tmp/LPO_manger/connexion.php",
+		"/var/www/tmp/LPO_manger/config/ajax_small_script.php",
+		"/var/www/tmp/Travel_expenses/liste_travel_user.php",
+		"/var/www/tmp/LPO_manger/manager.php",
+		"/var/www/tmp/last_version/ajouter_user.php",
+		"/var/www/tmp/last_version/ajouter_article.php",
+		"/var/www/tmp/last_version/admin.php",
+		"/var/www/tmp/Travel_expenses/administrateur.php",
+		"/var/www/tmp/last_version/phpv2/navbar.php",
+		"/var/www/tmp/Travel_expenses/travel_expensive.php",
+		"/var/www/tmp/Travel_expenses/model_vue/model1.php",
+		"/var/www/tmp/Travel_expenses/index.php",
+		"/var/www/tmp/Travel_expenses/content.php",
+		"/var/www/tmp/Travel_expenses/assets/css/docs.css",
+		"/home/akane/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/akane/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/var/www/Code_site_vert/En_php/index_old.php",
+		"/var/www/Code_site_vert/En_php/index.php",
+		"/var/www/Code_site_vert/En_php/header.php",
+		"/var/www/Code_site_vert/En_php/form.html",
+		"/var/www/Code_site_vert/En_php/footer.php",
+		"/var/www/Code_site_vert/En_php/module_article.php",
+		"/var/www/Code_site_vert/En_php/content.php",
+		"/var/www/Code_site_vert/En_php/assets/css/style.css",
+		"/var/www/Code_site_vert/En_php/module_resau_sociau.php",
+		"/var/www/Code_site_vert/En_php/menu.php",
+		"/var/www/Code_site_vert/En_php/module_video_recent.php",
+		"/var/www/Code_site_vert/En_php/module_msg_accueil.php",
+		"/var/www/Code_site_vert/En_php/module_info_recent.php",
+		"/var/www/Code_site_vert/En_php/module_inscription.php",
+		"/var/www/Code_site_vert/En_php/module_connexion.php",
+		"/var/www/Code_site_vert/En_php/bar.php",
+		"/var/www/CAKEPHP/Site_vert/app/Config/email.php",
+		"/var/www/CAKEPHP/Site_vert/app/Config/routes.php",
+		"/var/www/CAKEPHP/Site_vert/app/Config/database.php",
+		"/var/www/CAKEPHP/Site_vert/app/Controller/PagesController.php",
+		"/var/www/CAKEPHP/Site_vert/app/Config/bootstrap.php",
+		"/var/www/CAKEPHP/Site_vert/app/Config/core.php",
+		"/var/www/CAKEPHP/Site_vert/app/Controller/Component/empty",
+		"/var/www/CAKEPHP/Site_vert/app/View/Pages/empty",
+		"/var/www/CAKEPHP/Site_vert/app/Controller/PagesController1.php",
+		"/home/akane/Documents/designers-cv-howtotex/designers-cv-howtotex.tex",
+		"/home/akane/Documents/Projet_eclipse/FilRouge/library/src/main/Library.java",
+		"/var/www/tmp/Travel_expenses/assets/js/travel.js",
+		"/var/www/tmp/Travel_expenses/config/connect_db.php",
+		"/var/www/tmp/Travel_expenses/manager.php",
+		"/var/www/tmp/Travel_expenses/liste_user.php",
+		"/var/www/tmp/Travel_expenses/config/scripts_function.php",
+		"/var/www/tmp/Travel_expenses/utilisateur.php",
+		"/home/akane/Documents/Travel_expenses/travel_expensive.php",
+		"/var/www/tmp/Travel_expenses/menu.php",
+		"/var/www/tmp/Travel_expenses/modifier_user.php",
+		"/var/www/tmp/Travel_expenses/ajoute_user.php",
+		"/var/www/tmp/Travel_expenses/connexion.php",
+		"/var/www/tmp/Travel_expenses/interfaceTest.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"search",
+			"each",
+			"ec",
+			"$sql3=mysql_query(\"SELECT max(id_commande) AS last_insert_id FROM commande WHERE id_utilisateur = '$id_utilisateur'\");\n	$a_result = mysql_fetch_array($sql3);\n	$id_last = $a_result['last_insert_id'];\n	return $id_last;",
+			"$id_last=getlastcommande($id_utilisateur);\n	echo $id_last;",
+			"getlastcommande",
+			"$sql=mysql_query(\"SELECT max(id_commande) AS last_insert_id FROM commande WHERE id_utilisateur= '$id_utilisateur'\");\n	$a_result = mysql_fetch_array($sql);\n	$id_last = $a_result['last_insert_id'];\n	transfercommande($id_last);\n",
+			"commander",
+			"date",
+			"commander",
+			"ajout",
+			"get_detail_article2",
+			"detail_article",
+			"view",
+			"rech",
+			"viewArticle",
+			"$sql3 =\"DELETE from article WHERE id_intituler= '$lastid'\" ;\n                  $rep3 = mysql_query($sql3);",
+			"$liste_tags",
+			"$description",
+			"$titre",
+			"echo",
+			"mise_a_jours",
+			"tags",
+			"liste_unit",
+			"<script type=\"text/javascript\" src=\"assets/js/jquery-ui.min.js\"></script>",
+			"<script type=\"text/javascript\" src=\"assets/js/jquery.gritter.min.js\"></script>",
+			" <script type=\"text/javascript\" src=\"assets/js/bootstrap-datepicker.js\"></script>",
+			"<script type=\"text/javascript\" src=\"assets/js/additional-methods.min.js\"></script>",
+			"<script type=\"text/javascript\" src=\"assets/js/jquery.colorbox-min.js\"></script>",
+			"<script type=\"text/javascript\" src=\"assets/js/jquery.validate.min.js\"></script>",
+			"<script type=\"text/javascript\" src=\"assets/js/bootstrap.min.js\"></script>",
+			" <script type=\"text/javascript\" src=\"assets/js/jquery.min.js\"></script>",
+			"tagitfy",
+			"tags",
+			"tagify",
+			"getTag",
+			" $('#actualise').slideUp(\"normal\");\n      $('#actualise').slideDown(\"normal\");\n     $('#actualise').load('scripte_refresh_cmd.php');",
+			"commande",
+			"$id_article = $_POST['id_article'];\n	$id_utitlisateur = $_COOKIE['id_utilisateur'];\n	$quantite = $_POST['quantite'];\n\n	$query= mysql_query(\"SELECT * FROM livecommande WHERE id_utitlisateur= '$id_utitlisateur' and id_article='$id_article'\");\n	$row = mysql_num_rows($query);\n	if($row==1){\n		$donnees=mysql_fetch_array($query);\n		$quantite = $quantite + $donnees['quantite'];\n\n		$sql = \"UPDATE livecommande SET quantite = '$quantite' WHERE id_utitlisateur= '$id_utitlisateur' and id_article='$id_article'\";\n		$req = mysql_query($sql);\n	}else{\n		//$sql2 = \"INSERT INTO livecommande VALUES ('$id_utitlisateur', '$id_article', '$quantite')\";  \n		//$req2 = mysql_query ($sql2) ;\n	}",
+			"//var table = new Array;\n    if(Arrays.length == 0){\n    //console.log($('#basket .cmd_en_cour').find('.basket-item'));\n    $('#basket .cmd_en_cour').find('.basket-item').each(function(){\n      Arrays.push($(this).attr('id').replace('cmd-', ''));\n    });\n    console.log(Arrays);\n    }",
+			"catalogue",
+			"z",
+			"af",
+			"message",
+			"<li><a href=\"#\">Lien 3</a></li>\n      <li><a href=\"#\">Lien 4</a></li>",
+			"https://github.com/twitter/bootstrap/",
+			"ass=\"download-info\">",
+			"      <",
+			" <p class=\"download-info\">\n      <a href=\"https://github.com/twitter/bootstrap/\" class=\"btn btn-primary btn-large\">View project on GitHub</a>\n      <a href=\"assets/bootstrap.zip\" class=\"btn btn-large\">Download Bootstrap <small>(v2.0.2)</small></a>\n    </p>",
+			" p",
+			"p",
+			"#p",
+			".p",
+			"message",
+			"	Router::connect('/pages/*', array('controller' => 'pages', 'action' => 'display'));",
+			"Travel_expensive",
+			" $.each(message, function(idx2,val2) {                    \n                                         var str = \",\" ;",
+			"\n                if($i!=$arret){\n                echo ',';\n                \n                }"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"a5270792_lpofdr"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/var/www/tmp/LPO_manger/utilisateur.php",
+					"settings":
+					{
+						"buffer_size": 7855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1013,
+								1013
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 26.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/var/www/tmp/LPO_manger/liste_travel_user.php",
+					"settings":
+					{
+						"buffer_size": 6104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								737,
+								737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 34.0,
+						"translation.y": 117.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/var/www/tmp/LPO_manger/ajoute_article.php",
+					"settings":
+					{
+						"buffer_size": 15369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12427,
+								12427
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4017.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/var/www/tmp/LPO_manger/content.php",
+					"settings":
+					{
+						"buffer_size": 3192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3074,
+								3074
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 819.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/var/www/tmp/LPO_manger/assets/js/lpo.js",
+					"settings":
+					{
+						"buffer_size": 10934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4276,
+								4276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1066.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/var/www/tmp/LPO_manger/config/ajax_lpo_big.php",
+					"settings":
+					{
+						"buffer_size": 6660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4226,
+								4226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1517.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/var/www/tmp/LPO_manger/assets/js/travel.js",
+					"settings":
+					{
+						"buffer_size": 13266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4196,
+								4196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1441.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/var/www/tmp/LPO_manger/config/ajax_function.php",
+					"settings":
+					{
+						"buffer_size": 17706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7392,
+								7396
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5369.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/var/www/tmp/LPO_manger/config/script_lpo.php",
+					"settings":
+					{
+						"buffer_size": 2501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1913,
+								1913
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 390.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/var/www/tmp/LPO_manger/config/scripts_function.php",
+					"settings":
+					{
+						"buffer_size": 8693,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/var/www/tmp/LPO_manger/assets/css/lpo.css",
+					"settings":
+					{
+						"buffer_size": 10611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								896,
+								896
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 611.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/var/www/tmp/LPO_manger/menu.php",
+					"settings":
+					{
+						"buffer_size": 3231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2211,
+								2220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 154.0,
+						"translation.y": 273.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.547387124564,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true
+}
