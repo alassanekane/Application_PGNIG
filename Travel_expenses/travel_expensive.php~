@@ -1,0 +1,137 @@
+<?php
+session_start();  
+if (!isset($_COOKIE['id_utilisateur'])){
+        header ('Location: connexion.php'); 
+        exit(); 
+}
+?>
+<?php if(isset($_COOKIE["id_utilisateur"])):
+?> 
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Travel EXPENSES</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="assets/css/datepicker.css" rel="stylesheet">
+    <link href="assets/css/jquery.gritter.css" rel="stylesheet">
+    <link href="assets/css/travel.css" rel="stylesheet">
+    
+      
+   <style>#errorlogin { display: none }</style>
+  </head>
+  <body data-spy="scroll" data-target=".subnav" data-offset="50">
+  
+          <?php
+          include 'menu.php';
+          ?>
+          <?php
+          include 'content.php';
+          ?>
+        <script type="text/javascript" src="assets/js/jquery.min.js"></script>
+        <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>
+        <script type="text/javascript" src="assets/js/jquery.colorbox-min.js"></script>
+        <script type="text/javascript" src="assets/js/additional-methods.min.js"></script>
+        <script type="text/javascript" src="assets/js/bootstrap-datepicker.js"></script>
+        <script type="text/javascript" src="assets/js/jquery.gritter.min.js"></script>
+        <script type="text/javascript" src="assets/js/travel.js"></script>
+        <script type="text/javascript">
+        $(function(){
+                
+                $.extend($.gritter.options, {
+                    class_name: 'gritter-light', // for light notifications (can be added directly to $.gritter.add too)
+                    position: 'bottom-right', // possibilities: bottom-left, bottom-right, top-left, top-right
+                        fade_in_speed: 100, // how fast notifications fade in (string or int)
+                        fade_out_speed: 100, // how fast the notices fade out
+                        time: 3000 // hang on the screen for...
+                });
+                
+                var id_user = $('.container').attr('id');
+                $.ajax({
+                       url: "config/ajax_function.php",
+                       type: "POST",
+                       data: '&action='+notification+'&id_user='+id_user,
+                       success: function(message){
+                               if(message == 'success'){    
+                                       
+                                       
+                               }
+                               
+                       } 
+                
+                });
+                
+                /*$('#add-sticky').click(function(){
+
+                        var unique_id = $.gritter.add({
+                                // (string | mandatory) the heading of the notification
+                                title: 'This is a sticky notice!',
+                                // (string | mandatory) the text inside the notification
+                                text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget tincidunt velit. Cum sociis natoque penatibus et <a href="#" style="color:#ccc">magnis dis parturient</a> montes, nascetur ridiculus mus.',
+                                // (string | optional) the image to display on the left
+                                image: 'http://s3.amazonaws.com/twitter_production/profile_images/132499022/myface_bigger.jpg',
+                                // (bool | optional) if you want it to fade out on its own or just sit there
+                                sticky: true,
+                                // (int | optional) the time you want it to be alive for before fading out
+                                time: '',
+                                // (string | optional) the class name you want to apply to that specific message
+                                class_name: 'my-sticky-class'
+                        });
+
+                        // You can have it return a unique id, this can be used to manually remove it later using
+                        
+                        setTimeout(function(){
+
+                                $.gritter.remove(unique_id, {
+                                        fade: true,
+                                        speed: 'slow'
+                                });
+
+                        }, 6000)
+                        
+
+                        return false;
+
+                });*/
+                
+                       /* $('#add-regular').click(function(){
+
+                        $.gritter.add({
+                                // (string | mandatory) the heading of the notification
+                                title: 'This is a regular notice!',
+                                // (string | mandatory) the text inside the notification
+                                text: 'This will fade out after a certain amount of time. Vivamus eget tincidunt velit. Cum sociis natoque penatibus et <a href="#" style="color:#ccc">magnis dis parturient</a> montes, nascetur ridiculus mus.',
+                                // (string | optional) the image to display on the left
+                                image: 'http://a0.twimg.com/profile_images/59268975/jquery_avatar_bigger.png',
+                                // (bool | optional) if you want it to fade out on its own or just sit there
+                                sticky: false,
+                                // (int | optional) the time you want it to be alive for before fading out
+                                time: ''
+                        });
+
+                        return false;
+
+                });*/
+                
+        });       
+        </script>
+        
+  </body>
+    
+  </html>
+<?php 
+      endif;
+?>
